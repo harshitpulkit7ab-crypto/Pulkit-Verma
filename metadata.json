@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Status Bar 16",
+  "description": "Pixel Android 16 Status Bar and Control Center replacement with dynamic clock, pill battery, Expressive Material You tiles, notification shade, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

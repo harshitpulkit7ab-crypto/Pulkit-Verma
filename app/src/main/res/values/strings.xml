@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pixel Status Bar 16</string>
+    <string name="accessibility_service_label">Pixel 16 Status Bar &amp; Control Center</string>
+    <string name="accessibility_service_description">Provides Pixel Android 16 status bar overlay, gestures (swipe down for Quick Settings/Control Center, double-tap to lock), and custom system controls.</string>
+</resources>
